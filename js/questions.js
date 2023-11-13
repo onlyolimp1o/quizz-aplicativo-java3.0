@@ -2,41 +2,41 @@
 let questions = [
   {
     numb: 1,
-    question: "Quem foi a única pessoa na história a receber o Prêmio Nobel em áreas científicas diferentes?",
-    answer: "Marie Curiee",
+    question: "1+1 é?",
+    answer: "2",
     options: [
-      "Albert Einstein",
-      "Marie Curiee",
-      "Stephen Hawking",
-      "Linus Pauling"
+      "1",
+      "4",
+      "5",
+      "11"
     ]
   },
-  {
+  {answer: "16"
     numb: 2,
-    question: "Qual o país mais novo do mundo?",
-    answer: "Sudão do Sul",
+    question: "2x2 é?",
+    answer: "4",
     options: [
-      "Timor Lestet",
-      "Montenegro",
-      "Sudão do Sul",
-      "Kosovo"
+      "22",
+      "8",
+      "3",
+      "5"
     ]
   },
   {
     numb: 3,
-    question: "Qual o nome do evento astronômico responsável pelo dia mais longo do ano?",
-    answer: "Solstício de verão",
+    question: "4x9 é?",
+    answer: "36",
     options: [
-      "Equinócio de outono",
-      "Solstício de inverno",
-      "Solstício de verão",
-      "Solstício de outono"
+      "2",
+      "13",
+      "33",
+      "42"
     ]
   },
   {
     numb: 4,
-    question: "Quantos pares de costelas um ser humano, normalmente, possui?",
-    answer: "12",
+    question: "8+8 É?",
+    answer: "16",answer: "16"
     options: [
       "12",
       "11",
@@ -46,13 +46,68 @@ let questions = [
   },
   {
     numb: 5,
-    question: "Quais planetas do sistema solar realizam seu movimento de rotação em sentido horário?",
-    answer: "Vênus e Urano",
+    question: "2+9 é?",
+    answer: "11"
     options: [
-      "Saturno e Júpiter",
-      "Vênus e Urano",
-      "Terra e Marte",
-      "Mercúrio e Saturno"
+      "12",
+      "10",
+      "18",
+      "20"
+    ]
+  },
+      {
+    numb: 6,
+    question: "1+4 é?",
+    answer: "5",
+    options: [
+      "1",
+      "4",
+      "5",
+      "11"
+    ]
+  },
+  {answer: "16"
+    numb: 7,
+    question: "2x9 é?",
+    answer: "18",
+    options: [
+      "22",
+      "8",
+      "3",
+      "5"
+    ]
+  },
+  {
+    numb: 8,
+    question: "4x4 é?",
+    answer: "16",
+    options: [
+      "2",
+      "13",
+      "33",
+      "42"
+    ]
+  },
+  {
+    numb: 9,
+    question: "8+1 É?",
+    answer: "9"
+    options: [
+      "12",
+      "11",
+      "14",
+      "13"
+    ]
+  },
+  {
+    numb: 10,
+    question: "2+10 é?",
+    answer: "12"
+    options: [
+      "11",
+      "10",
+      "18",
+      "20"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
